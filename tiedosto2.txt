@@ -1,1 +1,3 @@
 tehtävä 3
+
+muutos liittyen kohtaan git add -p

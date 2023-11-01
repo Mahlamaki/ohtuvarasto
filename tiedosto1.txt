@@ -1,3 +1,5 @@
 tehtävä 3
 
 tämä on muutos tähän tiedostoon, niinkuin tehtävässä 3 pyydettiin.
+
+Tämäkin on muutos joka pyydettiin tekemään tehtävässä 3. Tarkemmin liittyen git add -p käyttöön.
