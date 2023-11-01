@@ -1,2 +1,3 @@
 tehtävä 3
 
+Tämäkin on muutos tiedostoon, niinkuin tehtävässä kolme käskettiin tekemään.

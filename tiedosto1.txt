@@ -1,1 +1,3 @@
 tehtävä 3
+
+tämä on muutos tähän tiedostoon, niinkuin tehtävässä 3 pyydettiin.
