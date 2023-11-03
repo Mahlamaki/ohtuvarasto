@@ -81,4 +81,4 @@ class TestVarasto(unittest.TestCase):
         self.varasto.lisaa_varastoon(8)
         tuloste = self.varasto.__str__()
         #lopputuloste on oikein
-        self.assertAlmostEqual(tuloste, "saldo = 9, vielä tilaa 2")
+        self.assertAlmostEqual(tuloste, "saldo = 8, vielä tilaa 2")
